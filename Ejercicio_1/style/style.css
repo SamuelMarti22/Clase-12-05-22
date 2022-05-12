@@ -1,0 +1,24 @@
+.Macondo{
+    font-size: 100px;
+    font-family: 'Macondo', cursive;
+    color: red;
+}
+.fondo{
+    background-color: black;
+}
+.Otra{
+    color: aquamarine;
+    margin-left:100px;
+}
+.margen{
+    margin-left: 400px;
+}
+.header{
+    background-color: azure;
+}
+.main{
+    background-color: blue;
+}
+.footer{
+    background-color: blueviolet;
+}
